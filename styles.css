@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#card{
+	height:400px;
+	width:300px;
+	background-color:#f1f1f1;
+	text-align:center;
+	padding:20px;
+}
+#card>button{
+	border-radius:10px;
+	width:100px;
+	height:50px;
+	background-color:orange;
+}
